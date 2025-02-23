@@ -1,0 +1,67 @@
+[
+  {
+    "_id": {"$oid": "67b1eb4ef8a98780cfbef26c"},
+    "title": "iPhone 15 Pro Max",
+    "description": "6.7-inch Super Retina XDR OLED display with ProMotion technology and Always-On. A17 Pro chip with 6-core CPU and 6-core GPU. Pro camera system with 48MP Main, 12MP Ultra Wide, and 12MP Telephoto. Dynamic Island. Titanium design with Ceramic Shield front.",
+    "stock": 15,
+    "mrp": 159900,
+    "price": 149900,
+    "image": "uploads\\iphone15-pro-max.png",
+    "sold": 0,
+    "category": "mobile",
+    "createdAt": {"$date": "2025-02-16T13:45:20.783Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "67b1eb4ef8a98780cfbef26d"},
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "6.8-inch Dynamic AMOLED 2X display, 3088 x 1440 pixels, 120Hz refresh rate. Snapdragon 8 Gen 3 chipset. Quad camera setup with 200MP main sensor. S Pen included. 5000mAh battery with 45W fast charging. Android 14 with One UI 6.1.",
+    "stock": 12,
+    "mrp": 134999,
+    "price": 129999,
+    "image": "uploads\\samsung-s24-ultra.png",
+    "sold": 0,
+    "category": "mobile",
+    "createdAt": {"$date": "2025-02-16T13:46:20.783Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "67b1eb4ef8a98780cfbef26e"},
+    "title": "MacBook Pro 16 (2024)",
+    "description": "16-inch Liquid Retina XDR display. M3 Max chip with 14-core CPU and 30-core GPU. 32GB unified memory. 1TB SSD storage. Up to 22 hours battery life. Three Thunderbolt 4 ports, HDMI port, SDXC card slot.",
+    "stock": 8,
+    "mrp": 299900,
+    "price": 289900,
+    "image": "uploads\\macbook-pro-16.png",
+    "sold": 0,
+    "category": "laptop",
+    "createdAt": {"$date": "2025-02-16T13:47:20.783Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "67b1eb4ef8a98780cfbef26f"},
+    "title": "Sony WH-1000XM5",
+    "description": "Industry-leading noise canceling with Auto NC Optimizer. 30-hour battery life with quick charging (3 min charge for 3 hours playback). 8 microphones for superior call quality. Multipoint connection. LDAC codec support. Adaptive Sound Control.",
+    "stock": 20,
+    "mrp": 34990,
+    "price": 29990,
+    "image": "uploads\\sony-wh1000xm5.png",
+    "sold": 0,
+    "category": "audio",
+    "createdAt": {"$date": "2025-02-16T13:48:20.783Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "67b1eb4ef8a98780cfbef270"},
+    "title": "iPad Pro 12.9 (2024)",
+    "description": "12.9-inch Liquid Retina XDR display with ProMotion and True Tone. M2 chip with 8-core CPU and 10-core GPU. 12MP Wide and 10MP Ultra Wide cameras. LiDAR Scanner. Face ID. USB-C connector with support for Thunderbolt / USB 4.",
+    "stock": 10,
+    "mrp": 119900,
+    "price": 112900,
+    "image": "uploads\\ipad-pro-12.png",
+    "sold": 0,
+    "category": "tablet",
+    "createdAt": {"$date": "2025-02-16T13:49:20.783Z"},
+    "__v": 0
+  }
+]
